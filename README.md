@@ -78,7 +78,7 @@ Die Lernstatistik wird im `localStorage` des Browsers gespeichert und bleibt üb
 1. Repository als **Public** anlegen
 2. `index.html` hochladen
 3. **Settings → Pages → Branch: main → Save**
-4. App ist erreichbar unter `https://DEIN-USERNAME.github.io/jazz-chord-trainer/`
+4. App ist erreichbar unter `https://Stephan314.github.io/jazz-chord-trainer/`
 
 ---
 
